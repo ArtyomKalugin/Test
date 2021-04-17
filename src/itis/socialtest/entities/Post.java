@@ -39,6 +39,7 @@ public class Post {
     }
 
     public Author getAuthor() {
+
         return author;
     }
 
